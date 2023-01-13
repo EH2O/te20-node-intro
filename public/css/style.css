@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    max-width: 500px;
+    margin: auto;
+    
+}
+nav ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}
